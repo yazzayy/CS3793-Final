@@ -56,4 +56,5 @@ and you will get a cropped images in **traffic_light_cropped**.
 
 
 Example image:
+
 ![alt text](https://i.imgur.com/6Obt1bR.jpg)
