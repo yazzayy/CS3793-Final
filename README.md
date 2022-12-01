@@ -4,7 +4,7 @@
 
 Source: https://automaticaddison.com/how-to-detect-and-classify-traffic-lights/
 
-
+Yzan Qaryouti/for363
 ## Prerequisites
 - Python 3.7 or higher with [OpenCV installed](https://automaticaddison.com/how-to-set-up-anaconda-for-windows-10/)
 - You have [TensorFlow 2 Installed](https://www.tensorflow.org/install).
@@ -93,3 +93,27 @@ An example for each:
 - **3_not**:
 
  ![alt text](https://i.imgur.com/M1uuG80.jpg)
+
+## Step 3: Training
+
+Files: **train_traffic_light_color.py**
+
+In this step, we are going to train the dataset, and for that we need the file listed above placed in the same place as the other .py files.
+
+Then, we run:
+```bash
+python train_traffic_light_color.py
+```
+Which generates an accuracy figure.
+
+## Step 4: Test Traffic Light Color Detection System on Images
+
+Files: **detect_traffic_light_color_img.py**
+
+Folders: Create a new folder called **test_images** and place desired images there.
+
+Run the command:
+```bash
+python detect_traffic_light_color_img.py
+```
+
