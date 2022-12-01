@@ -52,9 +52,17 @@ Then, run
 ```bash
 python extract_traffic_lights.py
 ```
-and you will get a cropped images in **traffic_light_cropped**.
+and you will get cropped images in **traffic_light_cropped**.
 
 
 Example image:
 
 ![alt text](https://i.imgur.com/6Obt1bR.jpg)
+
+## Step 2: Separate traffic lights by color
+
+Folders: create a new folder in the main directory (where the .py files are) called **traffic_light_dataset**. Inside this folder create 4 new folders: 
+1. 0_green
+2. 1_yellow
+3. 2_red
+4. 3_not
