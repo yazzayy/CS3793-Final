@@ -9,7 +9,7 @@
   - [This post](https://automaticaddison.com/predict-vehicle-fuel-economy-using-a-deep-neural-network/) can also help you get your system setup, including your virtual environment in Anaconda (if you decide to go this route).
 - [This tutorial is not a prerequisite](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html), but it is one of the best tutorials on the Internet for the step-by-step process of how to detect objects in an image or a video using Tensorflow 2.
 
-# Installation and Setup
+## Installation and Setup
 We now need to make sure we have all the software packages installed. Check to see if you have OpenCV installed on your machine. If you are using Anaconda, you can type:
 ```bash
 conda install -c conda-forge opencv
@@ -38,4 +38,15 @@ conda install -c conda-forge matplotlib
 Otherwise, you can install like this:
 ```bash
 pip install matplotlib
+```
+
+# Step 1: Extract cropped traffic lights from images.
+
+Place **extract_traffic_lights.py** & **object_detection.py** in a directory,
+ and create a folder called **traffic_light_input** and place your desired images there.
+I used [The Bosch Small Traffic Lights Dataset](https://hci.iwr.uni-heidelberg.de/content/bosch-small-traffic-lights-dataset).
+
+Run
+```bash
+python extract_traffic_lights.py
 ```
