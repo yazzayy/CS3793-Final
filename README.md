@@ -44,14 +44,16 @@ pip install matplotlib
 
 Files: Place **extract_traffic_lights.py** & **object_detection.py** in a directory
 
-Folders: Create a folder called **traffic_light_input** and place your desired images there, and create an empty folder **traffic_light_cropped**.
- 
 I used [The Bosch Small Traffic Lights Dataset](https://hci.iwr.uni-heidelberg.de/content/bosch-small-traffic-lights-dataset).
+
+Folders: Create a folder called **traffic_light_input** and place your desired images there, and create an empty folder **traffic_light_cropped**.
 
 Then, run
 ```bash
 python extract_traffic_lights.py
 ```
-and you will get a new folder called **traffic_light_cropped**
+and you will get a cropped images in **traffic_light_cropped**.
 
-![alt text](http://url/to/img.png)
+
+Example image:
+![alt text](https://i.imgur.com/6Obt1bR.jpg)
