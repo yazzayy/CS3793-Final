@@ -1,6 +1,10 @@
 # CS3793-Final
 
 # Traffic light detection using tensorflow
+
+Source: https://automaticaddison.com/how-to-detect-and-classify-traffic-lights/
+
+
 ## Prerequisites
 - Python 3.7 or higher with [OpenCV installed](https://automaticaddison.com/how-to-set-up-anaconda-for-windows-10/)
 - You have [TensorFlow 2 Installed](https://www.tensorflow.org/install).
