@@ -9,3 +9,33 @@
   - [This post](https://automaticaddison.com/predict-vehicle-fuel-economy-using-a-deep-neural-network/) can also help you get your system setup, including your virtual environment in Anaconda (if you decide to go this route).
 - [This tutorial is not a prerequisite](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html), but it is one of the best tutorials on the Internet for the step-by-step process of how to detect objects in an image or a video using Tensorflow 2.
 
+# Installation and Setup
+We now need to make sure we have all the software packages installed. Check to see if you have OpenCV installed on your machine. If you are using Anaconda, you can type:
+```bash
+conda install -c conda-forge opencv
+```
+Alternatively, you can type:
+```bash
+pip install opencv-python
+```
+Make sure you have NumPy installed, a scientific computing library for Python.
+
+If you’re using Anaconda, you can type:
+```bash
+conda install numpy
+```
+
+Alternatively, you can type:
+```bash
+pip install numpy
+```
+Install Matplotlib, a plotting library for Python.
+
+For Anaconda users:
+```bash
+conda install -c conda-forge matplotlib
+```
+Otherwise, you can install like this:
+```bash
+pip install matplotlib
+```
