@@ -117,3 +117,16 @@ Run the command:
 python detect_traffic_light_color_img.py
 ```
 
+A couple of before and after pictures:
+
+Before:
+
+![alt text](https://i.imgur.com/kjJm0HN.jpg)
+
+![alt text](https://i.imgur.com/RJJW4OV.jpg)
+ 
+After:
+ 
+![alt text](https://i.imgur.com/B2E5Jam.jpg)
+  
+![alt text](https://i.imgur.com/pA4m6dA.jpg)
