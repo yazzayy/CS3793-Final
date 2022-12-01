@@ -62,7 +62,16 @@ Example image:
 ## Step 2: Separate traffic lights by color
 
 Folders: create a new folder in the main directory (where the .py files are) called **traffic_light_dataset**. Inside this folder create 4 new folders: 
-1. 0_green
-2. 1_yellow
-3. 2_red
-4. 3_not
+1. **0_green**
+2. **1_yellow**
+3. **2_red**
+4. **3_not**
+
+After that, find some of the cropped images we generated in the previous step, and place them in the corresponding folder.
+
+An example for each:
+
+1. **0_green**: ![alt text](https://i.imgur.com/mkEQmGs_d.webp?maxwidth=760&fidelity=grand)
+2. **1_yellow**: ![alt text](https://i.imgur.com/mkEQmGs_d.webp?maxwidth=760&fidelity=grand)
+3. **2_red**: ![alt text](https://i.imgur.com/mkEQmGs_d.webp?maxwidth=760&fidelity=grand)
+4. **3_not**: ![alt text](https://i.imgur.com/mkEQmGs_d.webp?maxwidth=760&fidelity=grand)
