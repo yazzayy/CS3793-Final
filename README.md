@@ -71,15 +71,21 @@ After that, find some of the cropped images we generated in the previous step, a
 
 An example for each:
 
-1. **0_green**:
+- **0_green**:
 
 ![alt text](https://i.imgur.com/mkEQmGs_d.webp?maxwidth=760&fidelity=grand)
-2. **1_yellow**:
+
+
+- **1_yellow**:
 
  ![alt text](https://i.imgur.com/unkYDRP.jpg)
-3. **2_red**:
+ 
+ 
+- **2_red**:
 
  ![alt text](https://i.imgur.com/e0EqLYO.jpg)
-4. **3_not**:
+ 
+ 
+- **3_not**:
 
  ![alt text](https://i.imgur.com/M1uuG80.jpg)
