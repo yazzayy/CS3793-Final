@@ -46,7 +46,7 @@ pip install matplotlib
 
 # Step 1: Extract cropped traffic lights from images.
 
-Files: Place [**extract_traffic_lights.py**](https://www.mediafire.com/file/pduiasnr0u8cacw/extract_traffic_lights.py/file) & **object_detection.py** in a directory
+Files: Place [**extract_traffic_lights.py**](https://www.mediafire.com/file/pduiasnr0u8cacw/extract_traffic_lights.py/file) & [**object_detection.py**](https://www.mediafire.com/file/oahvu2t50uu7sqc/object_detection.py/file) in a directory
 
 I used [The Bosch Small Traffic Lights Dataset](https://hci.iwr.uni-heidelberg.de/content/bosch-small-traffic-lights-dataset).
 
@@ -96,7 +96,7 @@ An example for each:
 
 ## Step 3: Training
 
-Files: **train_traffic_light_color.py**
+Files: [**train_traffic_light_color.py**](https://www.mediafire.com/file/sb3db2zoiohflat/train_traffic_light_color.py/file)
 
 In this step, we are going to train the dataset, and for that we need the file listed above placed in the same place as the other .py files.
 
@@ -108,7 +108,7 @@ Which generates an accuracy figure.
 
 ## Step 4: Test Traffic Light Color Detection System on Images
 
-Files: **detect_traffic_light_color_img.py**
+Files: [**detect_traffic_light_color_img.py**](https://www.mediafire.com/file/q6o5yebvcc8pnke/detect_traffic_light_color_img.py/file)
 
 Folders: Create a new folder called **test_images** and place desired images there.
 
