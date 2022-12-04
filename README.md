@@ -46,7 +46,7 @@ pip install matplotlib
 
 # Step 1: Extract cropped traffic lights from images.
 
-Files: Place **extract_traffic_lights.py** & **object_detection.py** in a directory
+Files: Place [**extract_traffic_lights.py**](https://www.mediafire.com/file/pduiasnr0u8cacw/extract_traffic_lights.py/file) & **object_detection.py** in a directory
 
 I used [The Bosch Small Traffic Lights Dataset](https://hci.iwr.uni-heidelberg.de/content/bosch-small-traffic-lights-dataset).
 
