@@ -2,7 +2,7 @@
 
 # Traffic light detection using tensorflow
 
-Source: https://automaticaddison.com/how-to-detect-and-classify-traffic-lights/
+Source: [https://automaticaddison.com/how-to-detect-and-classify-traffic-lights/](https://automaticaddison.com/how-to-detect-and-classify-traffic-lights/)
 
 Yzan Qaryouti/for363
 ## Prerequisites
